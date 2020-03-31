@@ -1,6 +1,7 @@
 install.packages('BatchGetSymbols')
 install.packages('quantmod')
 install.packages('forecast')
+install.packages('fma')
 
 library(BatchGetSymbols)
 library(quantmod)
